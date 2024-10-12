@@ -27,8 +27,6 @@ html {
 /* ___________ cursor__follower ___________ */
 
 .cursor__follower {
-    --x: 50%;
-    --y: 50%;
     display: block;
     width: var(--width, 6rem);
     height: var(--height, 6rem);
